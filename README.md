@@ -13,6 +13,6 @@ Testei os endpoints com o programa Postman.
 
 Espero que gostem! Até a próxima.
 
+Parte do código com os Endpoints:
 
-
-
+<img width="1165" height="955" alt="API REST - Drinks" src="https://github.com/user-attachments/assets/196a2e2e-5552-4ad2-b784-f50d65b3931d" />
